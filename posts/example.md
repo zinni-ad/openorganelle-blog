@@ -1,3 +1,0 @@
-## Post title
-
-Post body
