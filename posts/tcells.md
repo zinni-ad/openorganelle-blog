@@ -2,7 +2,6 @@
 title: High-Powered Microscopes Capture Cancer Cells in Action
 tags: ["cancer"]
 authors: ["Davis Bennett"]
-date: "2022-09-16"
 ---
 Some words about Alex's cool story
 

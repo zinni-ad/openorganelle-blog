@@ -2,7 +2,6 @@
 title: Empanada segmentations
 tags: ["mitochondria", "machine learning"]
 authors: ["Davis Bennett"]
-date: "2022-09-16"
 ---
 
 # Mitochondria segmentation using Empanada and MitoNet

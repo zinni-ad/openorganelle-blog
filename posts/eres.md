@@ -2,7 +2,6 @@
 title: ER-Golgi trafficking
 tags: ["endoplasmic reticulum", "golgi"]
 authors: ["Aubrey Weigel"]
-date: "2022-09-16"
 ---
 
 Link to press release: [Advanced imaging technologies give a fresh look at protein distribution in cells](https://www.janelia.org/news/advanced-imaging-technologies-give-a-fresh-look-at-protein-distribution-in-cells)
