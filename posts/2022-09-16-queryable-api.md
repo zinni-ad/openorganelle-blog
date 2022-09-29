@@ -4,6 +4,5 @@ tags: ["openorganelle"]
 authors: ["Davis Bennett"]
 date: "2022-09-16"
 ---
-# Query datasets on OpenOrganelle
 
-What's new:
+What's new: a backend api for querying dataset information
