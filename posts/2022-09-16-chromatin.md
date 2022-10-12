@@ -1,13 +1,13 @@
 ---
 title: Chromatin arrangement
 summary: Analyzing structural and functional nuclear organization in somatic cells.
-thumbnail_url: https://github.com/janelia-cosem/openorganelle-blog/blob/main/assets/chromatin.png
+thumbnail_url: https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/chromatin.png
 tags: ["chromatin","segmentations","nucleus","cells"]
 authors: ["Aubrey Weigel"]
 date: "2022-09-16"
 published: true
 ---
-![Chromatin topography](https://github.com/janelia-cosem/openorganelle-blog/blob/main/assets/chromatin.png)
+![Chromatin topography](https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/chromatin.png)
 
 [Lothar Schermelleh](https://www.bioch.ox.ac.uk/research/schermelleh) et al., combine 3D Structured Illumination Microscopy with FIB-SEM to interrogate the functional topography of chromatin. Read more in their publication in their paper in Science Advances: [Chromatin arranges in chains of mesoscale domains with nanoscale functional topography independent of cohesin](https://www.science.org/doi/10.1126/sciadv.aba8811)<sup>1</sup>.
 
