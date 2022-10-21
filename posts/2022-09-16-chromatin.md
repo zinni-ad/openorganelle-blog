@@ -2,6 +2,7 @@
 title: Chromatin arrangement
 summary: Analyzing structural and functional nuclear organization in somatic cells.
 thumbnail_url: https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/chromatin.png
+carousel_url: https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/chromatin_carousel.png
 tags: ["chromatin","segmentations","nucleus","cells"]
 authors: ["Aubrey Weigel"]
 date: "2022-09-16"
