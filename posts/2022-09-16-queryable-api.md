@@ -1,8 +1,8 @@
 ---
 title: "Site update: December, 2022"
 summary: A new backend, a new organelles page, and more
-thumbnail_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/queryable-api_thumbnail.png'
-carousel_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/queryable-api_carousel.png'
+thumbnail_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/queryable-api_thumbnail.jpg'
+carousel_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/queryable-api_carousel.jpg'
 tags: ["database", "openorganelle"]
 authors: ["Davis Bennett"]
 date: "2022-11-29"
