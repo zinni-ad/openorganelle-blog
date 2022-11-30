@@ -11,10 +11,14 @@ published: False
 
 # Changes
 
+* We now have a news page.
+
 * We are delighted to announce the release of a new backend for OpenOrganelle. This upgrade makes OpenOrganelle more performant and greatly simplifies the process of adding new datasets.
 
-* We have also reworked the [organelles page](https://openorganelle.janelia.org/organelles) 
+* We have also reworked the [organelles page](https://openorganelle.janelia.org/organelles). 
 
+## A page for news
+We added a page for news and updates about the site. This space will be used to announce new datasets, new site features, as well as posts covering the biology revealed in our datasets.  
 
 
 ## Our new database
