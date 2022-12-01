@@ -5,7 +5,7 @@ thumbnail_url: https://raw.githubusercontent.com/janelia-cosem/openorganelle-blo
 carousel_url: https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/chromatin_carousel.png
 tags: ["chromatin","segmentations","nucleus","cells"]
 authors: ["Aubrey Weigel"]
-date: "2022-09-16"
+date: "2022-09-16T01:01"
 published: true
 ---
 ![Chromatin topography](https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/chromatin.png)

@@ -5,7 +5,7 @@ thumbnail_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-bl
 carousel_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/queryable-api_carousel.jpg'
 tags: ["database", "openorganelle"]
 authors: ["Davis Bennett"]
-date: "2022-12-01T14:04:13+0000"
+date: "2022-12-01T14:04:13"
 published: True
 ---
 # What's new
