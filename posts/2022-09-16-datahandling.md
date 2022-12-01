@@ -1,8 +1,11 @@
 ---
-title: Big data hygiene
+title: "Big data hygiene"
+summary: Big data; A different way of life
+thumbnail_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/...jpg'
+carousel_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/...jpg'
 tags: ["big data"]
 authors: ["John Bogovic"]
-date: "2022-09-16"
+date: "2022-12-30"
 published: False
 ---
 
