@@ -5,21 +5,19 @@ thumbnail_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-bl
 carousel_url: 'https://raw.githubusercontent.com/janelia-cosem/openorganelle-blog/main/assets/queryable-api_carousel.jpg'
 tags: ["database", "openorganelle"]
 authors: ["Davis Bennett"]
-date: "2022-11-30"
+date: "2022-12-01"
 published: True
 ---
+# What's new
 
-# Changes
+* We added a [news page](https://openorganelle.janelia.org/news).
 
-* We now have a news page.
+* We are using a new backend for dataset metadata. This upgrade makes OpenOrganelle more performant and greatly simplifies the process of adding new datasets.
 
-* We are delighted to announce the release of a new backend for OpenOrganelle. This upgrade makes OpenOrganelle more performant and greatly simplifies the process of adding new datasets.
-
-* We have also reworked the [organelles page](https://openorganelle.janelia.org/organelles). 
+* We reworked the [organelles page](https://openorganelle.janelia.org/organelles). 
 
 ## A page for news
-We added a page for news and updates about the site. This space will be used to announce new datasets, new site features, as well as posts covering the biology revealed in our datasets.  
-
+We added a [page](https://openorganelle.janelia.org/news) for news and updates about the site. This space will be used to announce new datasets, new site features, as well as posts covering the biology revealed in our datasets.
 
 ## Our new database
 Historically, the metadata required for displaying a dataset on OpenOrganelle was stored as plain JSON files in a [github repository](https://github.com/janelia-cosem/fibsem-metadata). This repository grew out of my efforts to define JSON-serializable data models in python to represent the different classes of metadata used by Cellmap. 
@@ -30,7 +28,7 @@ This solution was servicable, but it suffered from a fundamental limitation: wit
 
 For example, we wanted to rework the [organelles page](https://openorganelle.janelia.org/organelles) to show examples of different organelles across all our datasets. With our old backend generating this content required traversing the JSON representation of every single dataset. But with a relational database, the same result could be obtained with a single query, provided we organized our metadata correctly.
 
-Dataset metadata is now stored in a queryable [PostgreSQL](https://www.postgresql.org/) database provided via [Supabase](https://supabase.com/). As a developer, I'm extremely happy with how this has turned out, and I'm excited to grow this database to suit the needs of OpenOrganelle and potentially other tools! If you are interested in querying the OpenOrganelle database, please raise an issue on on our [github page](https://github.com/janelia-cosem/openorganelle) and I can walk you through the process of getting database access. 
+Dataset metadata is now stored in a queryable [PostgreSQL](https://www.postgresql.org/) database provided via [Supabase](https://supabase.com/). As a developer, I'm extremely happy with how this has turned out, and I'm excited to grow this database to suit the needs of OpenOrganelle and potentially other tools! If you are interested in querying the OpenOrganelle database, please raise an issue on on our [github page](https://github.com/janelia-cosem/openorganelle) and I can walk you through the process of getting database access.
 
 ## Reworked organelles page
-Our new [organelles page](https://openorganelle.janelia.org/organelles) now aggregates observations of organelles and other subcellular structures across all our datasets, and has an improved layout.  
+Our new [organelles page](https://openorganelle.janelia.org/organelles) now aggregates observations of organelles and other subcellular structures across all our datasets, and has an improved layout.
