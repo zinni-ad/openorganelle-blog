@@ -20,7 +20,7 @@ published: True
 We added a [page](https://openorganelle.janelia.org/news) for news and updates about the site. This space will be used to announce new datasets, new site features, as well as posts covering the biology revealed in our datasets.
 
 ## Our new database
-Historically, the metadata required for displaying a dataset on OpenOrganelle was stored as plain JSON files in a [github repository](https://github.com/janelia-cosem/fibsem-metadata). This repository grew out of my efforts to define JSON-serializable data models in python to represent the different classes of metadata used by Cellmap. 
+Historically, the metadata required for displaying a dataset on OpenOrganelle was stored as plain JSON files in a [github repository](https://github.com/janelia-cosem/fibsem-metadata). This repository grew out of my efforts to define JSON-serializable data models in python to represent the different classes of metadata used by CellMap. 
 
 When a visitor landed on OpenOrganelle, the metadata for each dataset would be fetched from this github repository. For example, here's the metadata for [`jrc_hela-2`](https://github.com/janelia-cosem/fibsem-metadata/blob/master/api/jrc_hela-2/manifest.json). 
 
